@@ -6,3 +6,6 @@ Video Tuturial on How to use TallyConnector - [Youtube Playlist](https://www.you
 
 Status of Tutorial - [Todo](TODO.md)
 
+## Running Locally
+
+In order to Run samples locally , we require jupyter notebook and .Net kernel
