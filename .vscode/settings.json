@@ -1,0 +1,8 @@
+{
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-dotnettools.dotnet-interactive-vscode"
+    },
+    "editor.formatOnType": true,
+    "omnisharp.useModernNet": true,
+    
+}
